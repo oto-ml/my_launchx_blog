@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Oto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://oto-ml.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://oto-ml.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Ruta de Aprendizaje</title>
+      <link>https://oto-ml.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://oto-ml.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>A praticamente 7 semanas del inicio de LaunchX, he visto ciertos cambios de mi aprendizaje. Situacion que me ha motivado a aprender mas sobre el desarrollo Web y a involucrarme mas en otras tecnologias, siempre buscando subir la dificultad para tener un mejor dominio.
+Si bien, el paso por FrontEnd no fue facil, ya que hay temas que a la fecha se me siguen complicando como el CSS, no lo dejo pasar y sigo aprendiendo sobre el tema.</description>
+    </item>
+    
     <item>
       <title>La culturaq de un desarrollador de Software</title>
       <link>https://oto-ml.github.io/my_launchx_blog/posts/intro/</link>
