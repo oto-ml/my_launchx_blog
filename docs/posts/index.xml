@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://oto-ml.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>La diferencia entre Git y Github</title>
+      <link>https://oto-ml.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://oto-ml.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola.
+Para este momento ya llevamos 3 semanas de aprendizaje desde el inicio de este programa. Y sin dudarlo, puedo decir que he cambiado y me siento muy diferente a lo que era al inicio. He adquirido mucho de Carlo y las ganas que pone en esto me hace querer continuar dentro de esta travesia.
+Es por ello que decido hablar de Git y Github. Dos herramientas muy importantes en la vida de un desarrollador.</description>
+    </item>
+    
+    <item>
       <title>Mi Ruta de Aprendizaje</title>
       <link>https://oto-ml.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
